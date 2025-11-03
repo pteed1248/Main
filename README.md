@@ -72,13 +72,19 @@ IT and Cybersecurity Professional </h1>
 
 **Certified:** CompTIA Security+ (CE)
 <img 
-    src="https://github.com/user-attachments/assets/12bd1299-67da-4658-84e1-c535e0be8534" 
+    src="https://github.com/user-attachments/assets/280691b7-c364-4511-ab42-cd25f11f4b0d" 
     alt="image" 
-    width="200" 
-    height="200" 
+    width="75" 
+    height="75" 
 />
 
+
 <h2>TryHackMe Stats:</h2>
+ <img 
+        src="https://tryhackme-badges.s3.amazonaws.com/paulteed1.png" 
+        width="200"
+    />
+
 [View my TryHackMe stats](https://tryhackme.com/p/paulteed1)
 
 
