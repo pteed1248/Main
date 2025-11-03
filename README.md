@@ -80,12 +80,20 @@ IT and Cybersecurity Professional </h1>
 
 
 <h2>TryHackMe/HackTheBox Stats:</h2>
- <img 
+
+<img 
     src="https://github.com/user-attachments/assets/d335ab74-febe-4030-9b81-71f4928a8101" 
-    alt="image" 
+    alt="first image" 
     width="75" 
     height="75" 
 />
+<img 
+    src="https://github.com/pteed1248/Main/blob/main/HTB-Logo-RGB.png?raw=true" 
+    alt="second image" 
+    width="150" 
+    height="150" 
+/>
+
 
 
 
