@@ -1,17 +1,31 @@
+<table width="100%">
+  <tr>
+    <!-- Left: Image -->
+    <td style="width: auto;">
+      <img 
+          src="https://github.com/user-attachments/assets/12bd1299-67da-4658-84e1-c535e0be8534" 
+          alt="image" 
+          width="200" 
+          height="200" 
+      />
+    </td>
+    <!-- Right: Text, flush right -->
+    <td style="text-align: right; width: 100%;">
+      <h1>
+        Hi, I'm Paul!<br>
+        <span style="color: blue;">IT and Cybersecurity Professional</span>
+      </h1>
+    </td>
+  </tr>
+</table>
 
 
-<img 
-    src="https://github.com/user-attachments/assets/12bd1299-67da-4658-84e1-c535e0be8534" 
-    alt="image" 
-    width="200" 
-    height="200" 
-/>
 
 
 
 
-<h1>Hi, I'm Paul!<br>
-IT and Cybersecurity Professional </h1>
+
+
 <h2>IT & Cybersecurity Projects</h2>
 
 <p><strong style="color: blue;">Firewall and Network Implementation</strong></p>
