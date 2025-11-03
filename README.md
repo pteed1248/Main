@@ -2,7 +2,7 @@
 IT and Cybersecurity Professional </h1>
 <h2>IT & Cybersecurity Projects</h2>
 
-<p><strong>Firewall and Network Implementation</strong></p>
+<p><strong style="color: blue;">Firewall and Network Implementation</strong></p>
 
 <div style="margin-left: 40px;">
     <ul>
