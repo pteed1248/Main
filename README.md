@@ -79,11 +79,15 @@ IT and Cybersecurity Professional </h1>
 />
 
 
-<h2>TryHackMe Stats:</h2>
+<h2>TryHackMe/HackTheBox Stats:</h2>
  <img 
-        src="https://tryhackme-badges.s3.amazonaws.com/paulteed1.png" 
-        width="200"
-    />
+    src="https://github.com/user-attachments/assets/d335ab74-febe-4030-9b81-71f4928a8101" 
+    alt="image" 
+    width="75" 
+    height="75" 
+/>
+
+
 
 [View my TryHackMe stats](https://tryhackme.com/p/paulteed1)
 
