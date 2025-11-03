@@ -15,6 +15,9 @@
         Hi, I'm Paul!<br>
         <span style="color: blue;">IT and Cybersecurity Professional</span>
       </h1>
+      <h3 style="margin: 5px 0 0 0; font-weight: normal;">
+        Navy Veteran and Technology Professional with a strong foundation in Information Security.
+      </h3>
     </td>
   </tr>
 </table>
