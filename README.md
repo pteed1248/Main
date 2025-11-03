@@ -1,11 +1,13 @@
 
 
 <img 
-    src="https://github.com/user-attachments/assets/492a5a6c-119c-4202-878c-635a99b5bace" 
+    src="https://github.com/user-attachments/assets/12bd1299-67da-4658-84e1-c535e0be8534" 
     alt="image" 
-    width="400" 
-    height="400" 
+    width="200" 
+    height="200" 
 />
+
+
 
 
 <h1>Hi, I'm Paul!<br>
@@ -69,6 +71,12 @@ IT and Cybersecurity Professional </h1>
 <h2>Certifications:</h2>
 
 **Certified:** CompTIA Security+ (CE)
+<img 
+    src="https://github.com/user-attachments/assets/12bd1299-67da-4658-84e1-c535e0be8534" 
+    alt="image" 
+    width="200" 
+    height="200" 
+/>
 
 <h2>TryHackMe Stats:</h2>
 [View my TryHackMe stats](https://tryhackme.com/p/paulteed1)
