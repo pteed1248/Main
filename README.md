@@ -71,15 +71,29 @@ IT and Cybersecurity Professional </h1>
 <h2>Certifications:</h2>
 
 
-
 <div style="text-align: left;">
+    <!-- First image -->
     <img 
-        src="https://github.com/user-attachments/assets/280691b7-c364-4511-ab42-cd25f11f4b0d" 
+        src="https://github.com/pteed1248/Main/blob/main/893bb620b71111ef888eca5646afc7d8.webp?raw=true"  
         alt="Security+ Badge" 
         width="75" 
         height="75" 
+        style="vertical-align: middle; margin-right: 10px;"
     />
-    <p><strong>Certified:</strong> CompTIA Security+ (CE)</p>
+    <!-- Second image -->
+    <img 
+        src="https://github.com/user-attachments/assets/280691b7-c364-4511-ab42-cd25f11f4b0d" 
+        alt="Another Badge" 
+        width="75" 
+        height="75" 
+        style="vertical-align: middle;"
+    />
+</div>
+<div>
+    <p>
+        <strong>Certified:</strong> CompTIA Security+ (CE)<br>
+        <strong>In progress:</strong> CompTIA Network+ (CE)
+    </p>
 </div>
 
 
