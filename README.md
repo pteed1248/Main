@@ -80,7 +80,7 @@
 </div>
 
 <p><strong>Metasploitable exploits using Metasploit</strong></p>
-<p><strong>Splunk log analysis setup</strong></p>
+<p><strong>Splunk SIEM</strong></p>
 <p><strong>Nessus credentialed/non-credentialed scan</strong></p>
 
 
