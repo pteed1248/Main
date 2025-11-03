@@ -70,13 +70,18 @@ IT and Cybersecurity Professional </h1>
 
 <h2>Certifications:</h2>
 
-**Certified:** CompTIA Security+ (CE)
-<img 
-    src="https://github.com/user-attachments/assets/280691b7-c364-4511-ab42-cd25f11f4b0d" 
-    alt="image" 
-    width="75" 
-    height="75" 
-/>
+
+
+<div style="text-align: left;">
+    <img 
+        src="https://github.com/user-attachments/assets/280691b7-c364-4511-ab42-cd25f11f4b0d" 
+        alt="Security+ Badge" 
+        width="75" 
+        height="75" 
+    />
+    <p><strong>Certified:</strong> CompTIA Security+ (CE)</p>
+</div>
+
 
 
 <h2>TryHackMe/HackTheBox Stats:</h2>
