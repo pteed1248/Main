@@ -112,19 +112,52 @@
 
 
 <h2>TryHackMe/HackTheBox Stats:</h2>
+<a href="https://tryhackme.com/p/paulteed1" target="_blank">
+    <img 
+        src="https://github.com/user-attachments/assets/d335ab74-febe-4030-9b81-71f4928a8101" 
+        alt="first image" 
+        width="75" 
+        height="75" 
+    />
+</a>
 
-<img 
-    src="https://github.com/user-attachments/assets/d335ab74-febe-4030-9b81-71f4928a8101" 
-    alt="first image" 
-    width="75" 
-    height="75" 
-/>
 <img 
     src="https://github.com/pteed1248/Main/blob/main/HTB-Logo-RGB.png?raw=true" 
     alt="second image" 
     width="150" 
     height="150" 
 />
+
+<table>
+  <tr>
+    <td>
+      <a href="https://tryhackme.com/p/paulteed1" target="_blank">
+        <img 
+            src="https://github.com/user-attachments/assets/d335ab74-febe-4030-9b81-71f4928a8101" 
+            alt="first image" 
+            width="75" 
+            height="75" 
+        />
+      </a>
+    </td>
+    <td>
+      <img 
+          src="https://github.com/pteed1248/Main/blob/main/HTB-Logo-RGB.png?raw=true" 
+          alt="second image" 
+          width="150" 
+          height="150" 
+      />
+    </td>
+  </tr>
+</table>
+
+
+[View my TryHackMe stats](https://tryhackme.com/p/paulteed1)
+
+
+
+
+[View my TryHackMe stats](https://tryhackme.com/p/paulteed1)
 
 
 
