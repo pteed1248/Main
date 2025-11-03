@@ -9,16 +9,15 @@
           height="200" 
       />
     </td>
-    <!-- Right: Text, flush right -->
-    <td style="text-align: right; width: 100%;">
-      <h1>
+    <!-- Right: Text, aligned top-right -->
+    <td style="width: 100%; text-align: right;" valign="top">
+      <h1 style="margin: 0;">
         Hi, I'm Paul!<br>
         <span style="color: blue;">IT and Cybersecurity Professional</span>
       </h1>
     </td>
   </tr>
 </table>
-
 
 
 
