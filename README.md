@@ -6,8 +6,23 @@ IT and Cybersecurity Professional </h1>
 
 <div style="margin-left: 40px;">
     <ul>
-        <li>Developed a custom firewall to monitor inbound and outbound traffic.</li>
-        <li>Implemented rule-based packet filtering for enhanced network security.</li>
-        <li>Integrated real-time alerts and logging for suspicious activity.</li>
+        <li>Installed multiple VM endpoints running different operating systems.</li>
+        <li>Installed pfsense</li>
+        <li>Initial Setup</li>
+        <li>Static IP addressing</li>
+        <li>Firewall Rules/Port hardening</li>
+        <li>Network connectivity via network interface setup</li>
+    </ul>
+</div>
+
+<p><strong>Intrusion Detection System(Security Onion)</strong></p>
+
+<div style="margin-left: 40px;">
+    <ul>
+        <li>Installation and VM setup process</li>
+        <li>Configure Network Interfaces</li>
+        <li>Static IP address allocation</li>
+        <li>Monitor</li>
+        <li>Network connectivity via network interface setup</li>
     </ul>
 </div>
