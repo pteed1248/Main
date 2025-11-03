@@ -1,5 +1,6 @@
 
 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/80b4ad46-a6cc-4062-8d96-40047858af0f" />
 
 <h1>Hi, I'm Paul!<br>
 IT and Cybersecurity Professional </h1>
