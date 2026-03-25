@@ -30,7 +30,7 @@
 
 <h2>IT & Cybersecurity Projects</h2>
 
-<p><strong style="color: blue;">Firewall and Network Implementation</strong></p>
+<p><strong style="color: blue;">NAT Firewall and Network Implementation</strong></p>
 
 <div style="margin-left: 40px;">
     <ul>
@@ -48,7 +48,7 @@
 <div style="margin-left: 40px;">
     <ul>
         <li>Installation and VM setup</li>
-        <li>Configure Network Interfaces</li>
+        <li>Configured Network Interfaces to connect to private NAT networks and bridged adapter for internet access</li>
         <li>Static IP address allocation</li>
         <li>Monitor</li>
     </ul>
@@ -78,10 +78,17 @@
         <li>Modify web requests to exploit vulnerabilities</li>
     </ul>
 </div>
-
-<p><strong>Metasploitable exploits using Metasploit</strong></p>
-<p><strong>Splunk SIEM</strong></p>
-<p><strong>Nessus credentialed/non-credentialed scan</strong></p>
+<p><strong>Hardened home firewall network</strong></p>
+<div style="margin-left: 40px;">
+    <ul>
+        <li>Disabled unused and vulnerable services</li>
+        <li>Allowed necessary ports for home IOT devices</li>
+        <li>Ensured inplicit deny all as last rule</li>
+        <li>Performed final port scan using nmap</li>
+    </ul>
+</div>
+<p><strong>Penetration testing capture the flags using Metasploit, TryHackMe</strong></p>
+<p><strong>Nessus credentialed and non-credentialed vulnerability scan home network</strong></p>
 
 
 <h2>Certifications:</h2>
